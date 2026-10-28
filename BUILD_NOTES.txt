@@ -1,0 +1,3 @@
+Project generated from user-provided BOSS_X_POWER_AUDIO_BLUE_WHITE_NOISE_GATE.zip.
+No APK binary is included. Requires Android SDK and Gradle build environment.
+Original extension is retained for reference only and is not automatically executed by WebView.
