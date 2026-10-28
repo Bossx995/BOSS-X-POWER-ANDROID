@@ -1,0 +1,5 @@
+BOSS X POWER AUDIO — BOSS EDITION
+Artwork supplied by the user has been added to this package at:
+popup/bossx-power-audio-red-edition.png
+The popup tiger emblem remains at popup/tiger.jpg.
+Note: the supplied artwork is included as an asset; it is not a full replacement of the extension interface.
